@@ -1,0 +1,25 @@
+//typeof(1)
+//typeof(1.1)
+//typeof('1.1')
+//typeof(true)
+//typeof(null)
+//typeof(undefined)
+//typeof([])
+//typeof({})
+//typeof(NaN)
+console.log(typeof(1));
+// number
+console.log(typeof(1,1));
+//number 
+console.log(typeof('1.1'));
+//string
+console.log(typeof(true));
+//boolean
+console.log(typeof(undefined));
+//undefined
+console.log(typeof([]));
+//object
+console.log(typeof({}));
+//object
+console.log(typeof(NAN));
+//undefined
