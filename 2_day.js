@@ -8,18 +8,18 @@
 //typeof({})
 //typeof(NaN)
 console.log(typeof(1));
-// number
+//output number
 console.log(typeof(1,1));
-//number 
+//output number 
 console.log(typeof('1.1'));
-//string
+//output string
 console.log(typeof(true));
-//boolean
+/output/boolean
 console.log(typeof(undefined));
-//undefined
+//output undefined
 console.log(typeof([]));
-//object
+//output object
 console.log(typeof({}));
-//object
+//output object
 console.log(typeof(NAN));
-//undefined
+//output undefined
